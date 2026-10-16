@@ -1,6 +1,6 @@
 # Jack Hessefort
 
-**Cybersecurity student | SOC & Identity/Access | IT Support**
+** B.S. in Cybersecurity, USF 2026 | SOC & Identity/Access | IT Support**
 CompTIA A+ and Security+ | Tampa, FL
 
 I build and break enterprise environments in a home lab so I can learn to defend them. My work sits where IT operations meets security: running Active Directory and a service desk by day-to-day IT standards, then instrumenting it with a SIEM and writing detections like a SOC analyst.
