@@ -8,7 +8,7 @@ I build and break enterprise environments in a home lab so I can learn to defend
 
 **Open to entry-level roles:** SOC Analyst (Tier 1) | IT Support / Help Desk | Identity & Access Management
 
-[LinkedIn](https://www.linkedin.com/in/jackhessefort/) | [Portfolio](https://meet246.github.io) | Jackmhess@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jackhessefort/) | [Portfolio](https://jack-hessefort.github.io) | Jackmhess@gmail.com
 
 ---
 
@@ -17,17 +17,17 @@ I build and break enterprise environments in a home lab so I can learn to defend
 ### Security / SOC
 | Project | What it shows |
 |---|---|
-| [**SOC Detection Lab**](https://github.com/meet246/SOC-Detection-Lab) | Wazuh SIEM on an Active Directory environment. Sysmon endpoint telemetry, custom detection rules mapped to MITRE ATT&CK, validated against real PsExec lateral movement and phishing payload simulations from a Kali attacker VM. |
-| [**HTTP Beaconing & Reverse Shell Investigation**](https://github.com/meet246/SOC-Investigation-HTTP-Beaconing-Reverse-Shell-Activity-Analysis) | Network forensics on a PCAP: tracing suspicious HTTP beaconing from an internal host back to reverse shell activity. |
-| [**PsExec Lateral Movement Analysis**](https://github.com/meet246/soc-analysis-psexec-pivot) | Technical analysis and mitigation strategy for a PsExec pivot alert (ReliaQuest SOC simulation). |
-| [**Home Network Security Assessment**](https://github.com/meet246/home-network-security) | Security assessment of a home network: documented architecture and recommended patch management, access control, and network security improvements. |
-| [**Hack The Box Labs**](https://github.com/meet246/Cybersecurity-CTF-Labs) | Hands-on penetration testing write-ups. |
+| [**SOC Detection Lab**](https://github.com/Jack-Hessefort/SOC-Detection-Lab) | Wazuh SIEM on an Active Directory environment. Sysmon endpoint telemetry, custom detection rules mapped to MITRE ATT&CK, validated against real PsExec lateral movement and phishing payload simulations from a Kali attacker VM. |
+| [**HTTP Beaconing & Reverse Shell Investigation**](https://github.com/Jack-Hessefort/SOC-Investigation-HTTP-Beaconing-Reverse-Shell-Activity-Analysis) | Network forensics on a PCAP: tracing suspicious HTTP beaconing from an internal host back to reverse shell activity. |
+| [**PsExec Lateral Movement Analysis**](https://github.com/Jack-Hessefort/soc-analysis-psexec-pivot) | Technical analysis and mitigation strategy for a PsExec pivot alert (ReliaQuest SOC simulation). |
+| [**Home Network Security Assessment**](https://github.com/Jack-Hessefort/home-network-security) | Security assessment of a home network: documented architecture and recommended patch management, access control, and network security improvements. |
+| [**Hack The Box Labs**](https://github.com/Jack-Hessefort/Cybersecurity-CTF-Labs) | Hands-on penetration testing write-ups. |
 
 ### IT Operations / Identity
 | Project | What it shows |
 |---|---|
-| [**Active Directory Enterprise Lab**](https://github.com/meet246/Active-Directory-Enterprise-Lab) | Enterprise AD environment with PowerShell automation, Group Policy management, IAM, and Windows security hardening. |
-| [**GLPI IT Service Desk Lab**](https://github.com/meet246/GLPI-IT-Service-Desk-Ticketing-Lab) | GLPI 11 on Ubuntu integrated with Active Directory over LDAPS, SLA-driven ticket routing, agent-based asset inventory, and help desk scenarios with KB articles. |
+| [**Active Directory Enterprise Lab**](https://github.com/Jack-Hessefort/Active-Directory-Enterprise-Lab) | Enterprise AD environment with PowerShell automation, Group Policy management, IAM, and Windows security hardening. |
+| [**GLPI IT Service Desk Lab**](https://github.com/Jack-Hessefort/GLPI-IT-Service-Desk-Ticketing-Lab) | GLPI 11 on Ubuntu integrated with Active Directory over LDAPS, SLA-driven ticket routing, agent-based asset inventory, and help desk scenarios with KB articles. |
 
 ---
 
